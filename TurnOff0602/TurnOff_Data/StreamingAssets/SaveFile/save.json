@@ -1,0 +1,37 @@
+{
+    "port":11116,
+    "Width":130,
+    "Height":130,
+    "x":0,
+    "y":0,
+    "LogFontSize":100,
+    "Fade":0.5,
+    "blockTime":0.5,
+    "openHiddenButton":true,
+    "welcomeCountries":[
+        "NOR.mp4",
+        "GER.mp4",
+        "MSA.mp4",
+        "VIE.mp4",
+        "ESP.mp4",
+        "ARA.mp4",
+        "ENG.mp4",
+        "ITA.mp4",
+        "HIN.mp4",
+        "IND.mp4",
+        "JPN.mp4",
+        "CHN.mp4",
+        "THA.mp4",
+        "FRA.mp4",
+        "KOR.mp4"
+    ],
+    "videoUrlList":[
+        "KR.mp4",
+        "EN.mp4",
+        "KeyFactK.mp4",
+        "KeyFactE.mp4",
+        "SP.mp4",
+        "AR.mp4",
+        "Welcome/ENG.mp4"
+    ]
+}
